@@ -1,2 +1,3 @@
-# ios-image-picker
-Sample project for Apple showing bug with iOS UIImagePicker.
+# iOS UIImagePickerController Bug
+
+This is a sample project for Apple, showing a bug with iOS UIImagePickerController.
